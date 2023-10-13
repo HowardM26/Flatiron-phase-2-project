@@ -15,8 +15,17 @@
     justify-content: center;
     font-size: 3rem;
   }
+  .home {
+    background-image: url('/WavyHauzTrts_pics/90s theme.jpeg');
+      background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+  }
+
   .About {
-  background-image: url("/WavyHauzTrts_pics/90s theme.jpeg");
+  background-image: url('/WavyHauzTrts_pics/90s theme.jpeg');
     background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
