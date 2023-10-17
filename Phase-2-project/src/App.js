@@ -2,7 +2,11 @@ import React from 'react';
 import Navbar from './components/pages/Navbar';
 import './Style/App.css';
 import Home from './components/Home';
+<<<<<<< HEAD
 import { Routes, Route } from 'react-router-dom';
+=======
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+>>>>>>> refs/remotes/origin/main
 import About from './components/pages/About';
 import Products from './components/pages/Products';
 import SignUp from './components/pages/SignUp';
