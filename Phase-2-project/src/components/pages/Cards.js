@@ -2,6 +2,7 @@ import React from 'react';
 import '../../Style/Cards.css';
 import CardItem from '../CardItem';
 
+
 function Cards() {
   return (
     <div className='cards'>
@@ -10,7 +11,7 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-             src='WavyHauzTrts_pics/Ohhhreos.jpeg'
+             src='src/WavyHauzTrts_pics/Ohhhreos.jpeg' 
              text='Mouthwatering cookies and creme flavor! $2.50'
              label='Sweet'
              path='/products'
